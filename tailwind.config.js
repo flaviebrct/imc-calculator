@@ -10,6 +10,11 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        sky: "#3FD7E0",
+        purplesky: "#6591E8",
+      },
+      spacing: {
+        128: "32rem",
       },
     },
   },
